@@ -1,0 +1,85 @@
+body{
+    background-color: black
+}
+header{
+    background-image: url(../img/bg-1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+section, footer{
+    padding: 70px 0;
+}
+footer a{
+    color:white;
+    font-size: 1.5rem;
+    padding: 0 5px;
+}
+footer a:hover{
+    color:#00c1ff
+}
+
+.secao-1 h5{
+    font-size: 2.2rem;
+}
+/*  */
+.secao-3{
+    background-image: url(../img/bg-2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1200px;
+}
+.secao-3 .card{
+    padding: 100px;
+}
+/*  */
+.secao-4{
+    padding: 0px;
+}
+.secao-4 h5{
+    font-size: 1.8rem;
+    padding-top: 7rem;
+}
+
+/*  */
+.secao-5{
+    background-image: url(../img/bg-4.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+
+
+
+.border-none{
+    border-radius: 0px;
+}
+
+.bg-cinza{
+    background-color: rgb(22, 21, 21)
+}
+
+.bg-black-transp{
+    background-color: rgba(0, 0, 0, 0.521)
+}
+.bg-black{
+    background-color: black
+}
+.text-blue-link{
+    color:#00c1ff;
+    margin: 0 20px;
+}
+
+.text-blue{
+    color:#00c1ff;
+}
+.mt-7{
+    margin-top:10rem;
+}
+.mt-10{
+    margin-top:14rem;
+}
+.pt-10{
+    padding-top:14rem;
+}
